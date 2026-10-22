@@ -1,7 +1,7 @@
-# Acervo em Foco — atualizações assinadas
+# Acervo Pessoal — atualizações assinadas
 
-Canal público de distribuição das edições DCTA e Pessoal. Contém somente código e recursos do programa, sem bancos, fotos de usuários, senhas ou chaves privadas.
+Canal público exclusivo do Acervo Pessoal. O Acervo DCTA é atualizado localmente e não recebe atualizações deste canal.
 
-O aplicativo verifica a assinatura digital e solicita autorização antes de instalar. Após a instalação, informa a necessidade de reiniciar. A versão anterior é preservada.
+Contém código e recursos do aplicativo, sem bancos, fotos de usuários, senhas ou chaves privadas. A instalação exige autorização e a assinatura é verificada pelo aplicativo.
 
-Este pacote é uma atualização para uma instalação preparada; não é um instalador independente.
+Os arquivos ZIP são atualizações para instalações preparadas, não instaladores independentes.
